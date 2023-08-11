@@ -1,0 +1,28 @@
+.card{
+    display: inline-block;
+}
+
+h1{
+    color: brown;
+    text-align: center;
+}
+
+.card{
+    text-align: center;
+}
+
+.centered {
+    /* height: 100vh; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+  }
+
+  d-flex flex-nowrap{
+    background:none;
+}
+
+d-flex flex-nowrap:hover{
+    background:#0000ff;
+}
